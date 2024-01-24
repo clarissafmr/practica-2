@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+h1{
+    color: coral;
+    text-align: center;
+}
+h2{
+    color: darkgrey;
+    background-color: chocolate;
+}
+strong{
+    color: chocolate;
+}
+em{
+    color: coral;
+}
+p{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 20px;
+}
